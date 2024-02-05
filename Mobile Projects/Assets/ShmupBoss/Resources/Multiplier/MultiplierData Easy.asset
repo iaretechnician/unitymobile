@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02322f1bfecb9b04493bf0f6294c5f1a, type: 3}
+  m_Name: MultiplierData Easy
+  m_EditorClassIdentifier: 
+  EnemiesVitalsMultiplier: 0.75
+  EnemiesSpeedMultiplier: 0.75
+  EnemiesCollisionDamageMultiplier: 0.75
+  ScoreMultiplier: 0.5
+  CoinsMultiplier: 0.5
+  EnemiesWeaponsRateMultiplier: 0.75
+  EnemiesMunitionDamageMultiplier: 0.75
+  EnemiesMunitionSpeedMultiplier: 0.75
+  PlayerVitalsMultiplier: 1.5
+  PlayerSpeedMultiplier: 1.5
+  PlayerCollisionDamageMultiplier: 1.5
+  PlayerWeaponsRateMultiplier: 1.5
+  PlayerMunitionDamageMultiplier: 1.5
+  PlayerMunitionSpeedMultiplier: 1.5

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eef59000605ba844ab9b36760ea8492, type: 3}
+  m_Name: Simple1_3
+  m_EditorClassIdentifier: 
+  NumberOfEnemiesToSpawn: 8
+  isSpawningEnemiesInRandomOrder: 0
+  TimeBetweenEnemies: 0.5
+  isRandomTimeBetweenEnemies: 0
+  minTimeBetweenEnemies: 0
+  maxTimeBetweenEnemies: 0
+  depthIndex: 50
+  spawnSide: 0
+  spawnSideOffset: 3
+  spawnPosition: 0.8
+  isRandomSpawnPosition: 0
+  minRandomSpawnPosition: 0
+  maxRandomSpawnPosition: 0
+  enemyPrefabs:
+  - {fileID: 1938154362622096272, guid: f687d9d8f669a6f4283437c29ccc7c74, type: 3}

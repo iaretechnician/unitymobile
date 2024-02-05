@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eef59000605ba844ab9b36760ea8492, type: 3}
+  m_Name: SideTank2
+  m_EditorClassIdentifier: 
+  NumberOfEnemiesToSpawn: 4
+  isSpawningEnemiesInRandomOrder: 0
+  TimeBetweenEnemies: 9
+  isRandomTimeBetweenEnemies: 0
+  minTimeBetweenEnemies: 0
+  maxTimeBetweenEnemies: 0
+  depthIndex: 40
+  spawnSide: 3
+  spawnSideOffset: 2
+  spawnPosition: 0.03
+  isRandomSpawnPosition: 0
+  minRandomSpawnPosition: 0
+  maxRandomSpawnPosition: 0
+  enemyPrefabs:
+  - {fileID: 1735974988753644272, guid: f51f085239677c940b5b2e6439678f75, type: 3}

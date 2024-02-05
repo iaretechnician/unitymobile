@@ -1,0 +1,11 @@
+Added in V2.11
+This update was added due to a question of a user of how to play animations based on agent direction. (i.e. when the player moves left or right to play animations left or right and to also have an idle animation).
+
+To use this feature, add an animator to the player or enemy sprite you want to control. In the Animator Controller slot, pick one of the pre made controllers I already created and which are located inside: "Prefabs/Updates/AnimatorUpdate/Animations/Animators". Pick the one you prefer to use: (Sideways vs Vertical).
+
+Add an "Animator Mover" component to the agent, reference the animator controller you just added and the agent mover. And now you can have animations playing when the agent changes direction.
+
+You can see how the agents in the demo are set up or watch the video tutorial in the Tutorials playlist regarding animator mover.
+Open up the animation controllers and see how they are set up, duplicate them and pick your own animations.
+
+Video tutorial link: https://youtu.be/nGwnJhFPRoI

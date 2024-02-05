@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1966809974346364930
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1966809974346364928}
+  - component: {fileID: 1966809974346364931}
+  m_Layer: 0
+  m_Name: Multiplier
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1966809974346364928
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1966809974346364930}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1966809974346364931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1966809974346364930}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a0480318ff1caa4b9dce53dcbe40701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  difficultyLevelSource: 0
+  difficultyLevel: 1
+  multiplierData:
+  - {fileID: 11400000, guid: 78e0b701f259edc4d8cad67ec9ebf1fc, type: 2}
+  - {fileID: 11400000, guid: f0b70f8699155864ca51954c061a3ecb, type: 2}
+  - {fileID: 11400000, guid: ad6c70bd2d692374ab68b2d434a3ff35, type: 2}
+  infiniteIncrementMultiplierData: {fileID: 11400000, guid: 4daf12ff2c34aa341bcd65a34490e864,
+    type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e37eabe64148ec4d8b1b7e6377b3802, type: 3}
+  m_Name: WaypointInsects
+  m_EditorClassIdentifier: 
+  NumberOfEnemiesToSpawn: 5
+  isSpawningEnemiesInRandomOrder: 0
+  TimeBetweenEnemies: 0.5
+  isRandomTimeBetweenEnemies: 0
+  minTimeBetweenEnemies: 0
+  maxTimeBetweenEnemies: 0
+  depthIndex: 60
+  enemyPrefabs:
+  - {fileID: 5420106828588421043, guid: c2f93456b383d4f4fb22354805916927, type: 3}
+  - {fileID: 4720684970330193633, guid: 5ef05ec83a4fb6845a64d0e352f02a3c, type: 3}
+  - {fileID: 640585840968388062, guid: 75d751e3a3ff1394098c719993b9f549, type: 3}
+  - {fileID: 7787341653536931524, guid: 181c40202d3fa1d40835ad08913ac6e0, type: 3}
+  - {fileID: 4621479903370694804, guid: c391efe35f906da4791e8dc5c1fa04dc, type: 3}

@@ -1,0 +1,9 @@
+Added in V2.1
+Quite simple to use, just add a "Bomb" component to an empty game object in your scene or use the "Edit" menu, "Shmup Boss", "Weapons", "Add Bomb Feature" which will do the same thing.
+
+You will also find Bomb Pickup and Firing Bomb agent events in your FX Spawner Player and SFX Player.
+
+Make sure to give the bomb a bomb timer to space out bombs, otherwise all bombs will be fired with a single click.
+I've also added a Unity Event if you want to start methods when a bomb is fired.
+
+Video tutorial link: https://youtu.be/cleevcz_5dA

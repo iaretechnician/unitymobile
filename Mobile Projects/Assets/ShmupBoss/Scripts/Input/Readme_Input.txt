@@ -1,0 +1,1 @@
+The Input folder contains scripts which store the player input and translates it into a movement direction or a fire press.

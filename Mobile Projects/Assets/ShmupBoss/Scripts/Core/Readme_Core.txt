@@ -1,0 +1,1 @@
+The Core folder contains scripts which while not used directly, the pack is completely based on.

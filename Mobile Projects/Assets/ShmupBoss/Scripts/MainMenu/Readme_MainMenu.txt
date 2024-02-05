@@ -1,0 +1,2 @@
+The Main Menu folder contains scripts that are used inside the main menu scene. 
+This includes the game manager controller which is active inside the levels as well and is responsible for handling and saving settings and save data.

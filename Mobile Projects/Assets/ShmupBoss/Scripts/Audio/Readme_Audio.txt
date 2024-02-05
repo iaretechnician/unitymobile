@@ -1,0 +1,1 @@
+The Audio folder contains the scripts which are responsible for playing UI audio, in game audio and controlling the volume through a master controller.

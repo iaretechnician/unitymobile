@@ -1,0 +1,1 @@
+The Level folder contains scripts which manage the main level settings such as whether a level is vertical or horizontal, the location of the player, difficulty settings and any UI.

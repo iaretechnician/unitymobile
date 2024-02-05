@@ -1,0 +1,1 @@
+The Args folder contains system event arguments that are passed with events that are using the core delgate.

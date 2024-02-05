@@ -1,0 +1,1 @@
+Interfaces were placed in a single folder because they are used across different classes which might not necessarily share any inheritance 

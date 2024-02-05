@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eef59000605ba844ab9b36760ea8492, type: 3}
+  m_Name: RandomWave1
+  m_EditorClassIdentifier: 
+  NumberOfEnemiesToSpawn: 8
+  isSpawningEnemiesInRandomOrder: 1
+  TimeBetweenEnemies: 0
+  isRandomTimeBetweenEnemies: 1
+  minTimeBetweenEnemies: 1
+  maxTimeBetweenEnemies: 3
+  depthIndex: 40
+  spawnSide: 4
+  spawnSideOffset: 2
+  spawnPosition: 0.5
+  isRandomSpawnPosition: 1
+  minRandomSpawnPosition: 0.1
+  maxRandomSpawnPosition: 0.9
+  enemyPrefabs:
+  - {fileID: 925397611983249974, guid: bb582c1d1be13a0409e7f6bcdfaf6f1b, type: 3}
+  - {fileID: 925397611983249974, guid: 22fa84b198f51664bb59c41597d1b173, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b3707e003aa5348b8f6b4695ce8958, type: 3}
+  m_Name: Curve2
+  m_EditorClassIdentifier: 
+  NumberOfEnemiesToSpawn: 10
+  isSpawningEnemiesInRandomOrder: 0
+  TimeBetweenEnemies: 0.5
+  isRandomTimeBetweenEnemies: 0
+  minTimeBetweenEnemies: 0
+  maxTimeBetweenEnemies: 0
+  depthIndex: 60
+  enemyPrefabs:
+  - {fileID: 6848678043026933979, guid: 4f736aad11ebd2447acdf94440cf026b, type: 3}
